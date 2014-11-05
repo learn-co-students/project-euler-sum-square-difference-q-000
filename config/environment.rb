@@ -3,5 +3,5 @@ require 'pry'
 
 Bundler.require(:default)
 
-require './lib/even_fibonacci'
-require './lib/oo_even_fibonacci'
+require './lib/sum_square_difference'
+require './lib/oo_sum_square_difference'
