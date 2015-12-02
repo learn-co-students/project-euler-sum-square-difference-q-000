@@ -14,3 +14,5 @@
 
 ## Source
 - [Project Euler](https://projecteuler.net/) - [Problem 6](https://projecteuler.net/problem=6)
+
+<a href='https://learn.co/lessons/project-euler-sum-square-difference' data-visibility='hidden'>View this lesson on Learn.co</a>
